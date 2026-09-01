@@ -1,0 +1,2 @@
+# TechnicalTestLGSM
+logistic n weather
